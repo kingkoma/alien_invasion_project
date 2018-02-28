@@ -1,6 +1,6 @@
 # alien_invasion_project
 
-a pygame from 【Python Crash Course】.\n
-I've made some adjustments\n
+a pygame from 【Python Crash Course】.<br/>
+I've made some adjustments<br/>
 - add some sound effect/bg_music.
 
